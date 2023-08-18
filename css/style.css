@@ -164,3 +164,11 @@ section{
     margin-right: 15px;
     transition: all .45 ease;
 }
+.btn2 span i:hover{
+    transform: scale(1.1);
+}
+.about-img{
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
